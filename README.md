@@ -8,6 +8,6 @@
 - C++
 - JAVA
 - Data Structures and Algorithm
-- Basic SQL
+- MySQL
 - DBMS
 - Python
